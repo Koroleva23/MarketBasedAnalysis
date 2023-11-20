@@ -1,0 +1,140 @@
+customer - CUSTOMER
+
+category - CATEGORY
+
+gbAccountTitl - ACCOUNT.TITLE
+
+gbShortTitle - SHORT.TITLE
+
+mnemonic - MNEMONIC
+
+positionType - POSITION.TYPE
+
+currency - CURRENCY
+
+currencyMarket - CURRENCY.MARKET
+
+accountOfficer - ACCOUNT.OFFICER
+
+classification - CLASSIFICATION
+
+workgen - WORK.GEN
+
+insYN - INS.Y.N
+
+dvndCalc - DVND.CALC
+
+taxpayable - TAX.PAYABLE
+
+amfbBranch - AMFB.BRANCH
+
+acCodeId - AC.CODE.ID
+
+conditionGroup - CONDITION.GROUP
+
+openActualBal - OPEN.ACTUAL.BAL
+
+openClearedBal - OPEN.CLEARED.BAL
+
+onlineActualBal - ONLINE.ACTUAL.BAL
+
+onlineCleared Bal - ONLINE.CLEARED.BAL
+
+workingBakance - WORKING.BALANCE
+
+dateLastCrCust - DATE.LAST.CR.CUST
+
+amountLastCrCust - AMNT.LAST.CR.CUST
+
+transLastCrCust - TRAN.LAST.CR.CUST
+
+dateLastCrBank - DATE.LAST.CR.BANK
+
+amountLastCrBank - AMNT.LAST.CR.BANK
+
+transLastCrBank - TRAN.LAST.CR.BANK
+
+dateLastDrCust - DATE.LAST.DR.CUST
+
+amountLastDrCust - AMNT.LAST.DR.CUST
+
+transLastDrCust - TRAN.LAST.DR.CUST
+
+dateLastDrBank - DATE.LAST.DR.BANK
+
+amountLastDrBank - AMNT.LAST.DR.BANK
+
+transLastDrBank - TRAN.LAST.DR.BANK
+
+capDateCharge.1 - CAP.DATE.CHARGE
+
+capDateCrInt.1 - CAP.DATE.CR.INT
+
+capDateC2Int.1 - CAP.DATE.C2.INT
+
+capDateDrInt.1 - CAP.DATE.DR.INT
+
+catDateD2Int.1 - CAP.DATE.D2.INT
+
+passbook - PASSBOOK
+
+openingDate - OPENING.DATE
+
+openCategory - OPEN.CATEGORY
+
+chargeCcy - CHARGE.CCY
+
+chargeMkt - CHARGE.MKT
+
+interestCcy - INTEREST.CCY
+
+interestMkt - INTEREST.MKT
+
+altAcctType.1 - ALT.ACCT.TYPE
+
+altAccId.4 - ALT.ACCT.ID
+
+allowNetting - ALLOW.NETTING
+
+hvtFlag - HVT.FLAG
+
+openAvailableBal - OPEN.AVAILABLE.BAL
+
+dateLastUpdate - DATE.LAST.UPDATE
+
+lastComChgDate - LAST.COM.CHG.DATE
+
+currNo - CURR.NO
+
+inputter.1 - INPUTTER
+
+inputter.2 - INPUTTER
+
+dateTimer.1 DATE.TIME
+
+authoriser - AUTHORISER
+
+coCode - CO.CODE
+
+deptCode - DEPT.CODE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
